@@ -1,0 +1,3252 @@
+Passo,Estado,saida_iperf
+0,0,Ocioso
+1,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 37560 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/363)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1175 sec  12.7 MBytes  10.6 Mbits/sec"
+2,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 51438 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/435)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0320 sec  62.7 MBytes  52.4 Mbits/sec"
+3,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 60328 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/357)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1174 sec  12.7 MBytes  10.6 Mbits/sec"
+4,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 59104 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/315)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0292 sec  62.7 MBytes  52.4 Mbits/sec"
+5,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 44426 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/358)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0356 sec  62.7 MBytes  52.4 Mbits/sec"
+6,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 58486 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/365)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1189 sec  12.7 MBytes  10.6 Mbits/sec"
+7,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 58704 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/316)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1169 sec  12.7 MBytes  10.6 Mbits/sec"
+8,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 50784 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/375)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1168 sec  12.7 MBytes  10.6 Mbits/sec"
+9,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 49808 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/316)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1178 sec  12.7 MBytes  10.6 Mbits/sec"
+10,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 53428 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/397)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0341 sec  62.7 MBytes  52.4 Mbits/sec"
+11,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 42716 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/325)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1174 sec  12.7 MBytes  10.6 Mbits/sec"
+12,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 37564 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/310)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1186 sec  12.7 MBytes  10.6 Mbits/sec"
+13,0,Ocioso
+14,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 49802 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/323)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1199 sec  12.7 MBytes  10.6 Mbits/sec"
+15,0,Ocioso
+16,0,Ocioso
+17,0,Ocioso
+18,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 54156 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/375)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1167 sec  12.7 MBytes  10.6 Mbits/sec"
+19,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 42260 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/317)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1208 sec  12.7 MBytes  10.6 Mbits/sec"
+20,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 52900 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/321)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1176 sec  12.7 MBytes  10.6 Mbits/sec"
+21,0,Ocioso
+22,0,Ocioso
+23,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 42224 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/302)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1204 sec  12.7 MBytes  10.6 Mbits/sec"
+24,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 85.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 50338 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/302)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0296 sec  62.7 MBytes  52.4 Mbits/sec"
+25,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 48350 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/320)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0343 sec  62.7 MBytes  52.4 Mbits/sec"
+26,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 51538 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/314)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1190 sec  12.7 MBytes  10.6 Mbits/sec"
+27,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 41288 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/333)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1182 sec  12.7 MBytes  10.6 Mbits/sec"
+28,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 50024 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/361)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0382 sec  62.7 MBytes  52.4 Mbits/sec"
+29,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 42656 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/322)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0371 sec  62.7 MBytes  52.4 Mbits/sec"
+30,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 58312 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/278)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1185 sec  12.7 MBytes  10.6 Mbits/sec"
+31,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 34076 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/275)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1197 sec  12.7 MBytes  10.6 Mbits/sec"
+32,0,Ocioso
+33,0,Ocioso
+34,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 48288 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/353)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1203 sec  12.7 MBytes  10.6 Mbits/sec"
+35,0,Ocioso
+36,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 40266 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/363)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1184 sec  12.7 MBytes  10.6 Mbits/sec"
+37,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 57660 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/425)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0271 sec  62.7 MBytes  52.5 Mbits/sec"
+38,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 48260 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/337)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1206 sec  12.7 MBytes  10.6 Mbits/sec"
+39,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 46592 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/360)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1191 sec  12.7 MBytes  10.6 Mbits/sec"
+40,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 55478 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/317)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1200 sec  12.7 MBytes  10.6 Mbits/sec"
+41,0,Ocioso
+42,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 46782 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/311)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1177 sec  12.7 MBytes  10.6 Mbits/sec"
+43,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 35232 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/353)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1198 sec  12.7 MBytes  10.6 Mbits/sec"
+44,0,Ocioso
+45,0,Ocioso
+46,0,Ocioso
+47,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 47010 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/370)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1181 sec  12.7 MBytes  10.6 Mbits/sec"
+48,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 55374 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/320)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0356 sec  62.7 MBytes  52.4 Mbits/sec"
+49,0,Ocioso
+50,0,Ocioso
+51,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 51294 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/305)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1188 sec  12.7 MBytes  10.6 Mbits/sec"
+52,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 40320 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/357)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1186 sec  12.7 MBytes  10.6 Mbits/sec"
+53,0,Ocioso
+54,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 34712 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/312)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1150 sec  12.7 MBytes  10.6 Mbits/sec"
+55,0,Ocioso
+56,0,Ocioso
+57,0,Ocioso
+58,0,Ocioso
+59,0,Ocioso
+60,0,Ocioso
+61,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 54134 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/315)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1204 sec  12.7 MBytes  10.6 Mbits/sec"
+62,0,Ocioso
+63,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 50012 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/315)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1192 sec  12.7 MBytes  10.6 Mbits/sec"
+64,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 44644 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/324)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1205 sec  12.7 MBytes  10.6 Mbits/sec"
+65,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 54514 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/305)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1200 sec  12.7 MBytes  10.6 Mbits/sec"
+66,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 47478 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/296)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1182 sec  12.7 MBytes  10.6 Mbits/sec"
+67,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 34698 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/373)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0333 sec  62.7 MBytes  52.4 Mbits/sec"
+68,0,Ocioso
+69,0,Ocioso
+70,0,Ocioso
+71,0,Ocioso
+72,0,Ocioso
+73,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 52402 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/322)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1187 sec  12.7 MBytes  10.6 Mbits/sec"
+74,0,Ocioso
+75,0,Ocioso
+76,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 49484 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/349)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1181 sec  12.7 MBytes  10.6 Mbits/sec"
+77,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 45328 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/347)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0337 sec  62.7 MBytes  52.4 Mbits/sec"
+78,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 39784 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/337)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0344 sec  62.7 MBytes  52.4 Mbits/sec"
+79,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 36016 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/343)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0349 sec  62.7 MBytes  52.4 Mbits/sec"
+80,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 45954 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/362)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1202 sec  12.7 MBytes  10.6 Mbits/sec"
+81,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 39458 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/316)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1222 sec  12.7 MBytes  10.6 Mbits/sec"
+82,0,Ocioso
+83,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 55382 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/361)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1150 sec  12.7 MBytes  10.6 Mbits/sec"
+84,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 35174 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/302)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1192 sec  12.7 MBytes  10.6 Mbits/sec"
+85,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 42146 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/308)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1198 sec  12.7 MBytes  10.6 Mbits/sec"
+86,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 36512 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/354)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1186 sec  12.7 MBytes  10.6 Mbits/sec"
+87,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 44166 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/328)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1182 sec  12.7 MBytes  10.6 Mbits/sec"
+88,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 37814 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/343)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1195 sec  12.7 MBytes  10.6 Mbits/sec"
+89,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 46454 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/322)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0335 sec  62.7 MBytes  52.4 Mbits/sec"
+90,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 54244 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/305)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0313 sec  62.7 MBytes  52.4 Mbits/sec"
+91,0,Ocioso
+92,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 42360 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/343)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1166 sec  12.7 MBytes  10.6 Mbits/sec"
+93,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 43626 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/318)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1188 sec  12.7 MBytes  10.6 Mbits/sec"
+94,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 40914 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/269)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1184 sec  12.7 MBytes  10.6 Mbits/sec"
+95,0,Ocioso
+96,0,Ocioso
+97,0,Ocioso
+98,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+tcp connect failed: Connection timed out
+[  1] local 0.0.0.0 port 0 connected with 191.36.15.1 port 5001"
+99,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 39112 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/331)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1189 sec  12.7 MBytes  10.6 Mbits/sec"
+100,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 43906 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/356)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1171 sec  12.7 MBytes  10.6 Mbits/sec"
+101,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 34444 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/331)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1174 sec  12.7 MBytes  10.6 Mbits/sec"
+102,0,Ocioso
+103,0,Ocioso
+104,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 53900 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/395)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1169 sec  12.7 MBytes  10.6 Mbits/sec"
+105,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 56478 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/327)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1171 sec  12.7 MBytes  10.6 Mbits/sec"
+106,0,Ocioso
+107,0,Ocioso
+108,0,Ocioso
+109,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 50862 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/337)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1113 sec  12.7 MBytes  10.6 Mbits/sec"
+110,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 33482 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/272)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1116 sec  12.7 MBytes  10.6 Mbits/sec"
+111,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 53126 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/250)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1137 sec  12.7 MBytes  10.6 Mbits/sec"
+112,0,Ocioso
+113,0,Ocioso
+114,0,Ocioso
+115,0,Ocioso
+116,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 48842 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/374)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1185 sec  12.7 MBytes  10.6 Mbits/sec"
+117,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 34696 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/322)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1191 sec  12.7 MBytes  10.6 Mbits/sec"
+118,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 49234 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/314)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0277 sec  62.7 MBytes  52.5 Mbits/sec"
+119,0,Ocioso
+120,0,Ocioso
+121,0,Ocioso
+122,0,Ocioso
+123,0,Ocioso
+124,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 45294 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/356)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1051 sec  12.7 MBytes  10.6 Mbits/sec"
+125,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 55112 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/267)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0315 sec  62.7 MBytes  52.4 Mbits/sec"
+126,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 53720 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/266)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1169 sec  12.7 MBytes  10.6 Mbits/sec"
+127,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 36794 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/291)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1186 sec  12.7 MBytes  10.6 Mbits/sec"
+128,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 38792 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/362)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0347 sec  62.7 MBytes  52.4 Mbits/sec"
+129,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 85.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 35828 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/256)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0342 sec  62.7 MBytes  52.4 Mbits/sec"
+130,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 50350 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/322)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1174 sec  12.7 MBytes  10.6 Mbits/sec"
+131,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 60932 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/321)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0341 sec  62.7 MBytes  52.4 Mbits/sec"
+132,0,Ocioso
+133,0,Ocioso
+134,0,Ocioso
+135,0,Ocioso
+136,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 56824 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/369)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1216 sec  12.7 MBytes  10.6 Mbits/sec"
+137,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 33716 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/262)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0333 sec  62.7 MBytes  52.4 Mbits/sec"
+138,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 47858 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/273)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1181 sec  12.7 MBytes  10.6 Mbits/sec"
+139,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 36878 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/331)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1208 sec  12.7 MBytes  10.6 Mbits/sec"
+140,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 33406 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/349)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1179 sec  12.7 MBytes  10.6 Mbits/sec"
+141,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 57488 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/274)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1195 sec  12.7 MBytes  10.6 Mbits/sec"
+142,0,Ocioso
+143,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 60810 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/314)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1181 sec  12.7 MBytes  10.6 Mbits/sec"
+144,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 45550 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/319)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1190 sec  12.7 MBytes  10.6 Mbits/sec"
+145,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 46780 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/324)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0251 sec  62.7 MBytes  52.5 Mbits/sec"
+146,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 54422 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/308)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0389 sec  62.7 MBytes  52.4 Mbits/sec"
+147,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 46776 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/260)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1173 sec  12.7 MBytes  10.6 Mbits/sec"
+148,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 34426 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/260)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0289 sec  62.7 MBytes  52.4 Mbits/sec"
+149,0,Ocioso
+150,0,Ocioso
+151,0,Ocioso
+152,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 37776 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/277)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1208 sec  12.7 MBytes  10.6 Mbits/sec"
+153,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 38916 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/325)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1203 sec  12.7 MBytes  10.6 Mbits/sec"
+154,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 39596 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/266)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0408 sec  62.7 MBytes  52.4 Mbits/sec"
+155,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 58290 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/303)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0269 sec  62.7 MBytes  52.5 Mbits/sec"
+156,0,Ocioso
+157,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 50166 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/312)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1187 sec  12.7 MBytes  10.6 Mbits/sec"
+158,0,Ocioso
+159,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 55064 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/325)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1191 sec  12.7 MBytes  10.6 Mbits/sec"
+160,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 45686 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/305)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0412 sec  62.7 MBytes  52.4 Mbits/sec"
+161,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 44928 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/305)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0377 sec  62.7 MBytes  52.4 Mbits/sec"
+162,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 60584 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/317)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0335 sec  62.7 MBytes  52.4 Mbits/sec"
+163,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 85.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 38434 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/305)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0287 sec  62.7 MBytes  52.5 Mbits/sec"
+164,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 56794 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/320)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1187 sec  12.7 MBytes  10.6 Mbits/sec"
+165,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 42680 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/318)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0327 sec  62.7 MBytes  52.4 Mbits/sec"
+166,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 41646 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/317)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0301 sec  62.7 MBytes  52.4 Mbits/sec"
+167,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 55870 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/321)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0265 sec  62.7 MBytes  52.5 Mbits/sec"
+168,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 47104 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/269)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0305 sec  62.7 MBytes  52.4 Mbits/sec"
+169,0,Ocioso
+170,0,Ocioso
+171,0,Ocioso
+172,0,Ocioso
+173,0,Ocioso
+174,0,Ocioso
+175,0,Ocioso
+176,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 45812 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/368)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1191 sec  12.7 MBytes  10.6 Mbits/sec"
+177,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 35870 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/314)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1182 sec  12.7 MBytes  10.6 Mbits/sec"
+178,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 45726 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/293)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1192 sec  12.7 MBytes  10.6 Mbits/sec"
+179,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 36720 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/304)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1175 sec  12.7 MBytes  10.6 Mbits/sec"
+180,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 44206 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/358)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0387 sec  62.7 MBytes  52.4 Mbits/sec"
+181,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 55050 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/400)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0336 sec  62.7 MBytes  52.4 Mbits/sec"
+182,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 56066 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/317)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1190 sec  12.7 MBytes  10.6 Mbits/sec"
+183,0,Ocioso
+184,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 36846 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/352)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1058 sec  12.7 MBytes  10.6 Mbits/sec"
+185,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 56188 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/363)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0335 sec  62.7 MBytes  52.4 Mbits/sec"
+186,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 45414 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/407)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1167 sec  12.7 MBytes  10.6 Mbits/sec"
+187,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 60748 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/357)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1078 sec  12.7 MBytes  10.6 Mbits/sec"
+188,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 55986 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/282)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1194 sec  12.7 MBytes  10.6 Mbits/sec"
+189,0,Ocioso
+190,0,Ocioso
+191,0,Ocioso
+192,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 34434 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/334)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1070 sec  12.7 MBytes  10.6 Mbits/sec"
+193,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 38068 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/335)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1057 sec  12.7 MBytes  10.6 Mbits/sec"
+194,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 42166 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/259)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1080 sec  12.7 MBytes  10.6 Mbits/sec"
+195,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 49134 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/314)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1203 sec  12.7 MBytes  10.6 Mbits/sec"
+196,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 54676 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/352)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1174 sec  12.7 MBytes  10.6 Mbits/sec"
+197,0,Ocioso
+198,0,Ocioso
+199,0,Ocioso
+200,0,Ocioso
+201,0,Ocioso
+202,0,Ocioso
+203,0,Ocioso
+204,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 43096 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/332)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1083 sec  12.7 MBytes  10.6 Mbits/sec"
+205,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 41218 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/386)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1094 sec  12.7 MBytes  10.6 Mbits/sec"
+206,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 36214 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/316)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1066 sec  12.7 MBytes  10.6 Mbits/sec"
+207,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 56654 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/348)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0382 sec  62.7 MBytes  52.4 Mbits/sec"
+208,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 39604 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/350)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0299 sec  62.7 MBytes  52.4 Mbits/sec"
+209,0,Ocioso
+210,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 52146 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/355)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1148 sec  12.7 MBytes  10.6 Mbits/sec"
+211,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 44790 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/295)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1182 sec  12.7 MBytes  10.6 Mbits/sec"
+212,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 39078 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/263)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0259 sec  62.7 MBytes  52.5 Mbits/sec"
+213,0,Ocioso
+214,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 38952 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/318)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1178 sec  12.7 MBytes  10.6 Mbits/sec"
+215,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 46432 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/349)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1198 sec  12.7 MBytes  10.6 Mbits/sec"
+216,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 55856 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/373)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1183 sec  12.7 MBytes  10.6 Mbits/sec"
+217,0,Ocioso
+218,0,Ocioso
+219,0,Ocioso
+220,0,Ocioso
+221,0,Ocioso
+222,0,Ocioso
+223,0,Ocioso
+224,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 50500 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/353)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1056 sec  12.7 MBytes  10.6 Mbits/sec"
+225,0,Ocioso
+226,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 41070 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/370)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1061 sec  12.7 MBytes  10.6 Mbits/sec"
+227,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 60752 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/357)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1054 sec  12.7 MBytes  10.6 Mbits/sec"
+228,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 45036 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/265)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1211 sec  12.7 MBytes  10.6 Mbits/sec"
+229,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 55456 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/328)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1208 sec  12.7 MBytes  10.6 Mbits/sec"
+230,0,Ocioso
+231,0,Ocioso
+232,0,Ocioso
+233,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 44016 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/328)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1166 sec  12.7 MBytes  10.6 Mbits/sec"
+234,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 36988 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/268)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1112 sec  12.7 MBytes  10.6 Mbits/sec"
+235,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 40042 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/341)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1125 sec  12.7 MBytes  10.6 Mbits/sec"
+236,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 32998 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/307)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1131 sec  12.7 MBytes  10.6 Mbits/sec"
+237,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 42334 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/360)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1152 sec  12.7 MBytes  10.6 Mbits/sec"
+238,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 57810 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/338)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1149 sec  12.7 MBytes  10.6 Mbits/sec"
+239,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 51664 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/370)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0395 sec  62.7 MBytes  52.4 Mbits/sec"
+240,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 48414 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/339)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1187 sec  12.7 MBytes  10.6 Mbits/sec"
+241,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 48370 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/256)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1159 sec  12.7 MBytes  10.6 Mbits/sec"
+242,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 45560 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/307)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1188 sec  12.7 MBytes  10.6 Mbits/sec"
+243,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 60092 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/351)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1176 sec  12.7 MBytes  10.6 Mbits/sec"
+244,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 53092 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/316)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1200 sec  12.7 MBytes  10.6 Mbits/sec"
+245,0,Ocioso
+246,0,Ocioso
+247,0,Ocioso
+248,0,Ocioso
+249,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 40346 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/358)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1205 sec  12.7 MBytes  10.6 Mbits/sec"
+250,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 56352 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/392)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1192 sec  12.7 MBytes  10.6 Mbits/sec"
+251,0,Ocioso
+252,0,Ocioso
+253,0,Ocioso
+254,0,Ocioso
+255,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 52010 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/358)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1204 sec  12.7 MBytes  10.6 Mbits/sec"
+256,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 55136 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/386)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1181 sec  12.7 MBytes  10.6 Mbits/sec"
+257,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 35246 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/310)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0384 sec  62.7 MBytes  52.4 Mbits/sec"
+258,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 39740 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/304)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1068 sec  12.7 MBytes  10.6 Mbits/sec"
+259,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 37716 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/349)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1173 sec  12.7 MBytes  10.6 Mbits/sec"
+260,0,Ocioso
+261,0,Ocioso
+262,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 58946 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/337)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1175 sec  12.7 MBytes  10.6 Mbits/sec"
+263,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 48602 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/327)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1188 sec  12.7 MBytes  10.6 Mbits/sec"
+264,0,Ocioso
+265,0,Ocioso
+266,0,Ocioso
+267,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 55182 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/321)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1171 sec  12.7 MBytes  10.6 Mbits/sec"
+268,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 35538 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/307)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1202 sec  12.7 MBytes  10.6 Mbits/sec"
+269,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 39836 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/324)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1188 sec  12.7 MBytes  10.6 Mbits/sec"
+270,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 56950 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/249)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1195 sec  12.7 MBytes  10.6 Mbits/sec"
+271,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 45040 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/322)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1182 sec  12.7 MBytes  10.6 Mbits/sec"
+272,0,Ocioso
+273,0,Ocioso
+274,0,Ocioso
+275,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 51906 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/378)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1178 sec  12.7 MBytes  10.6 Mbits/sec"
+276,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 42924 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/319)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0346 sec  62.7 MBytes  52.4 Mbits/sec"
+277,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 48222 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/315)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0351 sec  62.7 MBytes  52.4 Mbits/sec"
+278,0,Ocioso
+279,0,Ocioso
+280,0,Ocioso
+281,0,Ocioso
+282,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 44816 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/327)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1164 sec  12.7 MBytes  10.6 Mbits/sec"
+283,0,Ocioso
+284,0,Ocioso
+285,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 47558 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/322)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1197 sec  12.7 MBytes  10.6 Mbits/sec"
+286,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 40258 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/357)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1064 sec  12.7 MBytes  10.6 Mbits/sec"
+287,0,Ocioso
+288,0,Ocioso
+289,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 58430 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/308)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1195 sec  12.7 MBytes  10.6 Mbits/sec"
+290,0,Ocioso
+291,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 46988 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/319)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1184 sec  12.7 MBytes  10.6 Mbits/sec"
+292,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 85.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 57354 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/261)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1048 sec  12.7 MBytes  10.6 Mbits/sec"
+293,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 45564 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/358)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0264 sec  62.7 MBytes  52.5 Mbits/sec"
+294,0,Ocioso
+295,0,Ocioso
+296,0,Ocioso
+297,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 34720 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/337)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1202 sec  12.7 MBytes  10.6 Mbits/sec"
+298,0,Ocioso
+299,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 45462 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/345)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1061 sec  12.7 MBytes  10.6 Mbits/sec"
+300,0,Ocioso
+301,0,Ocioso
+302,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 34342 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/315)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1050 sec  12.7 MBytes  10.6 Mbits/sec"
+303,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 33910 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/395)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0284 sec  62.7 MBytes  52.5 Mbits/sec"
+304,0,Ocioso
+305,0,Ocioso
+306,0,Ocioso
+307,0,Ocioso
+308,0,Ocioso
+309,0,Ocioso
+310,0,Ocioso
+311,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 41942 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/343)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1182 sec  12.7 MBytes  10.6 Mbits/sec"
+312,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 36978 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/291)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1197 sec  12.7 MBytes  10.6 Mbits/sec"
+313,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 33196 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/264)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1162 sec  12.7 MBytes  10.6 Mbits/sec"
+314,0,Ocioso
+315,0,Ocioso
+316,0,Ocioso
+317,0,Ocioso
+318,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 36056 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/325)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1205 sec  12.7 MBytes  10.6 Mbits/sec"
+319,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 34662 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/347)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1182 sec  12.7 MBytes  10.6 Mbits/sec"
+320,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 49154 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/294)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1169 sec  12.7 MBytes  10.6 Mbits/sec"
+321,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 41356 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/312)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1168 sec  12.7 MBytes  10.6 Mbits/sec"
+322,0,Ocioso
+323,0,Ocioso
+324,0,Ocioso
+325,0,Ocioso
+326,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 50354 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/314)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1185 sec  12.7 MBytes  10.6 Mbits/sec"
+327,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 36586 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/319)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1169 sec  12.7 MBytes  10.6 Mbits/sec"
+328,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 49628 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/276)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0330 sec  62.7 MBytes  52.4 Mbits/sec"
+329,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 60518 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/276)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0340 sec  62.7 MBytes  52.4 Mbits/sec"
+330,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 38268 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/373)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1180 sec  12.7 MBytes  10.6 Mbits/sec"
+331,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 41344 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/310)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0282 sec  62.7 MBytes  52.5 Mbits/sec"
+332,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 60520 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/246)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0314 sec  62.7 MBytes  52.4 Mbits/sec"
+333,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 56472 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/318)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0305 sec  62.7 MBytes  52.4 Mbits/sec"
+334,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 51274 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/311)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0374 sec  62.7 MBytes  52.4 Mbits/sec"
+335,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 47754 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/347)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0365 sec  62.7 MBytes  52.4 Mbits/sec"
+336,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 52682 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/332)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1172 sec  12.7 MBytes  10.6 Mbits/sec"
+337,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 51754 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/336)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-11.0258 sec  62.7 MBytes  47.7 Mbits/sec"
+338,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 36616 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/305)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0311 sec  62.7 MBytes  52.4 Mbits/sec"
+339,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 33620 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/324)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1176 sec  12.7 MBytes  10.6 Mbits/sec"
+340,0,Ocioso
+341,0,Ocioso
+342,0,Ocioso
+343,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 40478 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/362)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1193 sec  12.7 MBytes  10.6 Mbits/sec"
+344,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 41494 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/345)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1188 sec  12.7 MBytes  10.6 Mbits/sec"
+345,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 46696 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/325)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1164 sec  12.7 MBytes  10.6 Mbits/sec"
+346,0,Ocioso
+347,0,Ocioso
+348,0,Ocioso
+349,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 59700 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/393)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1184 sec  12.7 MBytes  10.6 Mbits/sec"
+350,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 40916 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/279)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0384 sec  62.7 MBytes  52.4 Mbits/sec"
+351,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 55116 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/309)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0296 sec  62.7 MBytes  52.4 Mbits/sec"
+352,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 39124 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/335)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1184 sec  12.7 MBytes  10.6 Mbits/sec"
+353,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 37120 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/313)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1201 sec  12.7 MBytes  10.6 Mbits/sec"
+354,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 49920 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/286)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1218 sec  12.7 MBytes  10.6 Mbits/sec"
+355,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 45778 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/259)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0405 sec  62.7 MBytes  52.4 Mbits/sec"
+356,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 54756 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/331)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1180 sec  12.7 MBytes  10.6 Mbits/sec"
+357,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 52608 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/355)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0356 sec  62.7 MBytes  52.4 Mbits/sec"
+358,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 55320 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/336)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1189 sec  12.7 MBytes  10.6 Mbits/sec"
+359,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 41316 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/325)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0324 sec  62.7 MBytes  52.4 Mbits/sec"
+360,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 59468 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/298)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0347 sec  62.7 MBytes  52.4 Mbits/sec"
+361,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 57004 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/316)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1207 sec  12.7 MBytes  10.6 Mbits/sec"
+362,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 43508 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/271)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0340 sec  62.7 MBytes  52.4 Mbits/sec"
+363,0,Ocioso
+364,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 50142 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/321)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1190 sec  12.7 MBytes  10.6 Mbits/sec"
+365,0,Ocioso
+366,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 35848 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/401)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1193 sec  12.7 MBytes  10.6 Mbits/sec"
+367,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 60092 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/320)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1175 sec  12.7 MBytes  10.6 Mbits/sec"
+368,0,Ocioso
+369,0,Ocioso
+370,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 33710 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/372)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1185 sec  12.7 MBytes  10.6 Mbits/sec"
+371,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 42956 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/370)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0361 sec  62.7 MBytes  52.4 Mbits/sec"
+372,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 37768 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/370)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1175 sec  12.7 MBytes  10.6 Mbits/sec"
+373,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 59998 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/321)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1060 sec  12.7 MBytes  10.6 Mbits/sec"
+374,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 41186 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/360)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1181 sec  12.7 MBytes  10.6 Mbits/sec"
+375,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 34728 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/310)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1198 sec  12.7 MBytes  10.6 Mbits/sec"
+376,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 56814 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/361)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1177 sec  12.7 MBytes  10.6 Mbits/sec"
+377,0,Ocioso
+378,0,Ocioso
+379,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 45246 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/339)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1189 sec  12.7 MBytes  10.6 Mbits/sec"
+380,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 36958 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/264)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0302 sec  62.7 MBytes  52.4 Mbits/sec"
+381,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 40082 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/358)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1182 sec  12.7 MBytes  10.6 Mbits/sec"
+382,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 49814 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/302)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1189 sec  12.7 MBytes  10.6 Mbits/sec"
+383,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 36550 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/351)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0306 sec  62.7 MBytes  52.4 Mbits/sec"
+384,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 41386 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/286)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1062 sec  12.7 MBytes  10.6 Mbits/sec"
+385,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 42670 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/307)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0391 sec  62.7 MBytes  52.4 Mbits/sec"
+386,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 51368 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/316)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0340 sec  62.7 MBytes  52.4 Mbits/sec"
+387,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 57992 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/256)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0306 sec  62.7 MBytes  52.4 Mbits/sec"
+388,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 34636 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/314)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1193 sec  12.7 MBytes  10.6 Mbits/sec"
+389,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 54956 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/300)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1188 sec  12.7 MBytes  10.6 Mbits/sec"
+390,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 49334 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/237)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0304 sec  62.7 MBytes  52.4 Mbits/sec"
+391,0,Ocioso
+392,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 47598 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/303)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1205 sec  12.7 MBytes  10.6 Mbits/sec"
+393,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 42656 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/270)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0330 sec  62.7 MBytes  52.4 Mbits/sec"
+394,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 35124 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/366)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1209 sec  12.7 MBytes  10.6 Mbits/sec"
+395,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 43822 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/299)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0256 sec  62.7 MBytes  52.5 Mbits/sec"
+396,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 42982 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/319)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0392 sec  62.7 MBytes  52.4 Mbits/sec"
+397,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 37606 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/295)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0355 sec  62.7 MBytes  52.4 Mbits/sec"
+398,0,Ocioso
+399,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 52898 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/368)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1181 sec  12.7 MBytes  10.6 Mbits/sec"
+400,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 37716 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/303)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0385 sec  62.7 MBytes  52.4 Mbits/sec"
+401,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 50894 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/405)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0397 sec  62.7 MBytes  52.4 Mbits/sec"
+402,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 52740 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/265)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1190 sec  12.7 MBytes  10.6 Mbits/sec"
+403,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 48626 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/316)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1191 sec  12.7 MBytes  10.6 Mbits/sec"
+404,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 56548 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/324)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1185 sec  12.7 MBytes  10.6 Mbits/sec"
+405,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 47104 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/343)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1201 sec  12.7 MBytes  10.6 Mbits/sec"
+406,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 52762 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/303)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0358 sec  62.7 MBytes  52.4 Mbits/sec"
+407,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 50702 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/353)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0249 sec  62.7 MBytes  52.5 Mbits/sec"
+408,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 42448 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/317)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1199 sec  12.7 MBytes  10.6 Mbits/sec"
+409,0,Ocioso
+410,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 35496 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/322)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1204 sec  12.7 MBytes  10.6 Mbits/sec"
+411,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 46502 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/324)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1180 sec  12.7 MBytes  10.6 Mbits/sec"
+412,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 49344 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/228)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1169 sec  12.7 MBytes  10.6 Mbits/sec"
+413,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 39664 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/319)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1181 sec  12.7 MBytes  10.6 Mbits/sec"
+414,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 60106 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/305)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0292 sec  62.7 MBytes  52.4 Mbits/sec"
+415,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 37570 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/318)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1161 sec  12.7 MBytes  10.6 Mbits/sec"
+416,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 54418 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/303)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0396 sec  62.7 MBytes  52.4 Mbits/sec"
+417,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 35494 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/309)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0329 sec  62.7 MBytes  52.4 Mbits/sec"
+418,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 35642 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/357)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0327 sec  62.7 MBytes  52.4 Mbits/sec"
+419,0,Ocioso
+420,0,Ocioso
+421,0,Ocioso
+422,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 51914 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/330)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1146 sec  12.7 MBytes  10.6 Mbits/sec"
+423,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 54634 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/326)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1166 sec  12.7 MBytes  10.6 Mbits/sec"
+424,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 50724 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/427)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0298 sec  62.7 MBytes  52.4 Mbits/sec"
+425,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 36504 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/331)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0322 sec  62.7 MBytes  52.4 Mbits/sec"
+426,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 44642 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/262)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1184 sec  12.7 MBytes  10.6 Mbits/sec"
+427,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 37106 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/308)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1192 sec  12.7 MBytes  10.6 Mbits/sec"
+428,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 33236 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/310)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1166 sec  12.7 MBytes  10.6 Mbits/sec"
+429,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 46992 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/296)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0323 sec  62.7 MBytes  52.4 Mbits/sec"
+430,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 36150 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/276)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0404 sec  62.7 MBytes  52.4 Mbits/sec"
+431,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 33176 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/413)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0368 sec  62.7 MBytes  52.4 Mbits/sec"
+432,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 47432 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/394)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1205 sec  12.7 MBytes  10.6 Mbits/sec"
+433,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 50510 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/322)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0366 sec  62.7 MBytes  52.4 Mbits/sec"
+434,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 51774 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/321)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0358 sec  62.7 MBytes  52.4 Mbits/sec"
+435,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 60034 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/336)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0289 sec  62.7 MBytes  52.5 Mbits/sec"
+436,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 45570 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/334)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1185 sec  12.7 MBytes  10.6 Mbits/sec"
+437,0,Ocioso
+438,0,Ocioso
+439,0,Ocioso
+440,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 48812 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/347)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1170 sec  12.7 MBytes  10.6 Mbits/sec"
+441,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 60702 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/375)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1183 sec  12.7 MBytes  10.6 Mbits/sec"
+442,0,Ocioso
+443,0,Ocioso
+444,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 33828 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/306)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1175 sec  12.7 MBytes  10.6 Mbits/sec"
+445,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 52402 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/313)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1180 sec  12.7 MBytes  10.6 Mbits/sec"
+446,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 44916 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/289)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1199 sec  12.7 MBytes  10.6 Mbits/sec"
+447,0,Ocioso
+448,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 53872 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/298)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1192 sec  12.7 MBytes  10.6 Mbits/sec"
+449,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 40742 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/244)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1181 sec  12.7 MBytes  10.6 Mbits/sec"
+450,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 33646 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/339)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1200 sec  12.7 MBytes  10.6 Mbits/sec"
+451,0,Ocioso
+452,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 55516 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/326)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1212 sec  12.7 MBytes  10.6 Mbits/sec"
+453,0,Ocioso
+454,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 59252 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/318)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1171 sec  12.7 MBytes  10.6 Mbits/sec"
+455,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 45000 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/288)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1201 sec  12.7 MBytes  10.6 Mbits/sec"
+456,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 46970 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/311)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0347 sec  62.7 MBytes  52.4 Mbits/sec"
+457,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 45968 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/389)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1173 sec  12.7 MBytes  10.6 Mbits/sec"
+458,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 42222 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/305)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1205 sec  12.7 MBytes  10.6 Mbits/sec"
+459,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 56500 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/282)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0342 sec  62.7 MBytes  52.4 Mbits/sec"
+460,0,Ocioso
+461,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 45520 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/257)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1056 sec  12.7 MBytes  10.6 Mbits/sec"
+462,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 51298 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/313)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0306 sec  62.7 MBytes  52.4 Mbits/sec"
+463,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 53376 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/299)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1195 sec  12.7 MBytes  10.6 Mbits/sec"
+464,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 35590 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/331)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0264 sec  62.7 MBytes  52.5 Mbits/sec"
+465,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 41184 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/309)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1183 sec  12.7 MBytes  10.6 Mbits/sec"
+466,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 41484 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/327)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0306 sec  62.7 MBytes  52.4 Mbits/sec"
+467,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 39380 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/323)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1200 sec  12.7 MBytes  10.6 Mbits/sec"
+468,0,Ocioso
+469,0,Ocioso
+470,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 56484 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/363)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1170 sec  12.7 MBytes  10.6 Mbits/sec"
+471,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 56922 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/302)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1058 sec  12.7 MBytes  10.6 Mbits/sec"
+472,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 51588 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/329)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0316 sec  62.7 MBytes  52.4 Mbits/sec"
+473,0,Ocioso
+474,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 46328 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/380)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1173 sec  12.7 MBytes  10.6 Mbits/sec"
+475,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 48830 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/327)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1160 sec  12.7 MBytes  10.6 Mbits/sec"
+476,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 60636 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/243)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0256 sec  62.7 MBytes  52.5 Mbits/sec"
+477,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 37798 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/309)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1183 sec  12.7 MBytes  10.6 Mbits/sec"
+478,0,Ocioso
+479,0,Ocioso
+480,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 38096 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/302)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1212 sec  12.7 MBytes  10.6 Mbits/sec"
+481,0,Ocioso
+482,0,Ocioso
+483,0,Ocioso
+484,0,Ocioso
+485,0,Ocioso
+486,0,Ocioso
+487,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 47880 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/388)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1203 sec  12.7 MBytes  10.6 Mbits/sec"
+488,0,Ocioso
+489,0,Ocioso
+490,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 58990 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/318)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1217 sec  12.7 MBytes  10.6 Mbits/sec"
+491,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 36640 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/271)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0264 sec  62.7 MBytes  52.5 Mbits/sec"
+492,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 53182 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/337)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-11.1181 sec  12.7 MBytes  9.61 Mbits/sec"
+493,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 44456 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/353)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0304 sec  62.7 MBytes  52.4 Mbits/sec"
+494,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 55222 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/283)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1188 sec  12.7 MBytes  10.6 Mbits/sec"
+495,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 39196 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/323)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0324 sec  62.7 MBytes  52.4 Mbits/sec"
+496,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 48938 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/314)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0359 sec  62.7 MBytes  52.4 Mbits/sec"
+497,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 59458 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/314)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1176 sec  12.7 MBytes  10.6 Mbits/sec"
+498,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 33438 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/331)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0285 sec  62.7 MBytes  52.5 Mbits/sec"
+499,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 52806 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/365)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0354 sec  62.7 MBytes  52.4 Mbits/sec"
+500,0,Ocioso
+501,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 36618 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/320)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1176 sec  12.7 MBytes  10.6 Mbits/sec"
+502,0,Ocioso
+503,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 35598 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/305)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1176 sec  12.7 MBytes  10.6 Mbits/sec"
+504,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 40612 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/317)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1165 sec  12.7 MBytes  10.6 Mbits/sec"
+505,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 36216 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/303)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0413 sec  62.7 MBytes  52.4 Mbits/sec"
+506,0,Ocioso
+507,0,Ocioso
+508,0,Ocioso
+509,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 56640 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/342)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1207 sec  12.7 MBytes  10.6 Mbits/sec"
+510,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 39206 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/362)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0347 sec  62.7 MBytes  52.4 Mbits/sec"
+511,0,Ocioso
+512,0,Ocioso
+513,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 49640 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/366)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1181 sec  12.7 MBytes  10.6 Mbits/sec"
+514,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 56782 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/287)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0275 sec  62.7 MBytes  52.5 Mbits/sec"
+515,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 39238 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/354)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0339 sec  62.7 MBytes  52.4 Mbits/sec"
+516,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 41686 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/268)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0344 sec  62.7 MBytes  52.4 Mbits/sec"
+517,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 44586 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/320)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1193 sec  12.7 MBytes  10.6 Mbits/sec"
+518,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 34644 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/326)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0397 sec  62.7 MBytes  52.4 Mbits/sec"
+519,0,Ocioso
+520,0,Ocioso
+521,0,Ocioso
+522,0,Ocioso
+523,0,Ocioso
+524,0,Ocioso
+525,0,Ocioso
+526,0,Ocioso
+527,0,Ocioso
+528,0,Ocioso
+529,0,Ocioso
+530,0,Ocioso
+531,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 34242 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/321)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1167 sec  12.7 MBytes  10.6 Mbits/sec"
+532,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 53874 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/361)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1180 sec  12.7 MBytes  10.6 Mbits/sec"
+533,0,Ocioso
+534,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 33790 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/332)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1171 sec  12.7 MBytes  10.6 Mbits/sec"
+535,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 35906 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/299)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1172 sec  12.7 MBytes  10.6 Mbits/sec"
+536,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 36892 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/241)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1205 sec  12.7 MBytes  10.6 Mbits/sec"
+537,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 41752 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/328)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1180 sec  12.7 MBytes  10.6 Mbits/sec"
+538,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 45048 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/313)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1051 sec  12.7 MBytes  10.6 Mbits/sec"
+539,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 50204 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/360)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1175 sec  12.7 MBytes  10.6 Mbits/sec"
+540,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 57974 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/340)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0283 sec  62.7 MBytes  52.5 Mbits/sec"
+541,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 56892 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/248)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0395 sec  62.7 MBytes  52.4 Mbits/sec"
+542,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 38998 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/265)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0314 sec  62.7 MBytes  52.4 Mbits/sec"
+543,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 57320 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/247)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0360 sec  62.7 MBytes  52.4 Mbits/sec"
+544,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 60330 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/406)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0369 sec  62.7 MBytes  52.4 Mbits/sec"
+545,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 55226 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/264)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1190 sec  12.7 MBytes  10.6 Mbits/sec"
+546,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 58100 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/373)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1177 sec  12.7 MBytes  10.6 Mbits/sec"
+547,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 46002 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/296)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0334 sec  62.7 MBytes  52.4 Mbits/sec"
+548,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 85.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 39606 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/262)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1178 sec  12.7 MBytes  10.6 Mbits/sec"
+549,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 47664 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/361)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1178 sec  12.7 MBytes  10.6 Mbits/sec"
+550,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 38668 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/305)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0333 sec  62.7 MBytes  52.4 Mbits/sec"
+551,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 58388 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/240)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0391 sec  62.7 MBytes  52.4 Mbits/sec"
+552,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 42894 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/280)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1189 sec  12.7 MBytes  10.6 Mbits/sec"
+553,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 54756 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/337)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0304 sec  62.7 MBytes  52.4 Mbits/sec"
+554,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 45338 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/308)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0370 sec  62.7 MBytes  52.4 Mbits/sec"
+555,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 39746 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/322)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1207 sec  12.7 MBytes  10.6 Mbits/sec"
+556,0,Ocioso
+557,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 43966 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/316)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1191 sec  12.7 MBytes  10.6 Mbits/sec"
+558,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 54828 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/289)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1177 sec  12.7 MBytes  10.6 Mbits/sec"
+559,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 36234 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/317)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1199 sec  12.7 MBytes  10.6 Mbits/sec"
+560,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 37238 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/330)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0377 sec  62.7 MBytes  52.4 Mbits/sec"
+561,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 56680 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/310)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1184 sec  12.7 MBytes  10.6 Mbits/sec"
+562,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 33742 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/384)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1197 sec  12.7 MBytes  10.6 Mbits/sec"
+563,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 46150 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/373)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0357 sec  62.7 MBytes  52.4 Mbits/sec"
+564,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 36632 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/315)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0353 sec  62.7 MBytes  52.4 Mbits/sec"
+565,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 46898 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/317)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1202 sec  12.7 MBytes  10.6 Mbits/sec"
+566,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 37212 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/332)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1208 sec  12.7 MBytes  10.6 Mbits/sec"
+567,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 55742 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/314)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1187 sec  12.7 MBytes  10.6 Mbits/sec"
+568,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 45976 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/324)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1187 sec  12.7 MBytes  10.6 Mbits/sec"
+569,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 59196 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/339)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0298 sec  62.7 MBytes  52.4 Mbits/sec"
+570,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 47674 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/317)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0393 sec  62.7 MBytes  52.4 Mbits/sec"
+571,0,Ocioso
+572,0,Ocioso
+573,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 42720 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/327)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1191 sec  12.7 MBytes  10.6 Mbits/sec"
+574,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 51682 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/326)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1180 sec  12.7 MBytes  10.6 Mbits/sec"
+575,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 35424 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/345)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1177 sec  12.7 MBytes  10.6 Mbits/sec"
+576,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 43470 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/322)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0330 sec  62.7 MBytes  52.4 Mbits/sec"
+577,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 36524 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/290)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0372 sec  62.7 MBytes  52.4 Mbits/sec"
+578,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 43380 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/324)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0415 sec  62.7 MBytes  52.4 Mbits/sec"
+579,0,Ocioso
+580,0,Ocioso
+581,0,Ocioso
+582,0,Ocioso
+583,0,Ocioso
+584,0,Ocioso
+585,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 53202 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/324)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1208 sec  12.7 MBytes  10.6 Mbits/sec"
+586,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 35810 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/330)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1191 sec  12.7 MBytes  10.6 Mbits/sec"
+587,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 54340 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/322)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1171 sec  12.7 MBytes  10.6 Mbits/sec"
+588,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 34828 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/367)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1198 sec  12.7 MBytes  10.6 Mbits/sec"
+589,0,Ocioso
+590,0,Ocioso
+591,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 49030 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/315)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1207 sec  12.7 MBytes  10.6 Mbits/sec"
+592,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 58628 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/273)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1055 sec  12.7 MBytes  10.6 Mbits/sec"
+593,0,Ocioso
+594,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 52572 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/354)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1210 sec  12.7 MBytes  10.6 Mbits/sec"
+595,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 41822 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/263)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0275 sec  62.7 MBytes  52.5 Mbits/sec"
+596,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 34048 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/235)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1220 sec  12.7 MBytes  10.6 Mbits/sec"
+597,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 44842 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/339)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0267 sec  62.7 MBytes  52.5 Mbits/sec"
+598,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 33044 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/303)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0315 sec  62.7 MBytes  52.4 Mbits/sec"
+599,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 59116 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/323)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0314 sec  62.7 MBytes  52.4 Mbits/sec"
+600,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 36124 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/301)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1057 sec  12.7 MBytes  10.6 Mbits/sec"
+601,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 48866 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/287)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1175 sec  12.7 MBytes  10.6 Mbits/sec"
+602,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 42532 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/320)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1183 sec  12.7 MBytes  10.6 Mbits/sec"
+603,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 33364 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/322)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0404 sec  62.7 MBytes  52.4 Mbits/sec"
+604,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 50378 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/379)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1220 sec  12.7 MBytes  10.6 Mbits/sec"
+605,0,Ocioso
+606,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 47462 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/386)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1177 sec  12.7 MBytes  10.6 Mbits/sec"
+607,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 36488 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/319)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1200 sec  12.7 MBytes  10.6 Mbits/sec"
+608,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 56116 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/329)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0313 sec  62.7 MBytes  52.4 Mbits/sec"
+609,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 44622 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/375)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0292 sec  62.7 MBytes  52.4 Mbits/sec"
+610,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 39824 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/324)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1185 sec  12.7 MBytes  10.6 Mbits/sec"
+611,0,Ocioso
+612,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 53026 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/373)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1199 sec  12.7 MBytes  10.6 Mbits/sec"
+613,0,Ocioso
+614,0,Ocioso
+615,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 47072 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/355)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1188 sec  12.7 MBytes  10.6 Mbits/sec"
+616,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 37870 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/284)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1178 sec  12.7 MBytes  10.6 Mbits/sec"
+617,0,Ocioso
+618,0,Ocioso
+619,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 33076 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/377)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1172 sec  12.7 MBytes  10.6 Mbits/sec"
+620,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 58346 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/273)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1189 sec  12.7 MBytes  10.6 Mbits/sec"
+621,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 39014 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/319)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1194 sec  12.7 MBytes  10.6 Mbits/sec"
+622,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 40502 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/289)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0249 sec  62.7 MBytes  52.5 Mbits/sec"
+623,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 34564 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/336)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0252 sec  62.7 MBytes  52.5 Mbits/sec"
+624,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 37518 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/271)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1055 sec  12.7 MBytes  10.6 Mbits/sec"
+625,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 40440 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/309)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1183 sec  12.7 MBytes  10.6 Mbits/sec"
+626,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 58276 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/310)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1184 sec  12.7 MBytes  10.6 Mbits/sec"
+627,0,Ocioso
+628,0,Ocioso
+629,0,Ocioso
+630,0,Ocioso
+631,0,Ocioso
+632,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 58140 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/340)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1209 sec  12.7 MBytes  10.6 Mbits/sec"
+633,0,Ocioso
+634,0,Ocioso
+635,0,Ocioso
+636,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 45702 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/366)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1186 sec  12.7 MBytes  10.6 Mbits/sec"
+637,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 56832 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/284)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1193 sec  12.7 MBytes  10.6 Mbits/sec"
+638,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 33040 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/238)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0389 sec  62.7 MBytes  52.4 Mbits/sec"
+639,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 41680 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/334)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0286 sec  62.7 MBytes  52.5 Mbits/sec"
+640,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 46852 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/259)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0333 sec  62.7 MBytes  52.4 Mbits/sec"
+641,0,Ocioso
+642,0,Ocioso
+643,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 46866 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/344)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1213 sec  12.7 MBytes  10.6 Mbits/sec"
+644,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 33532 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/311)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0405 sec  62.7 MBytes  52.4 Mbits/sec"
+645,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 48870 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/322)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1201 sec  12.7 MBytes  10.6 Mbits/sec"
+646,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 41502 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/266)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1192 sec  12.7 MBytes  10.6 Mbits/sec"
+647,0,Ocioso
+648,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 35230 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/377)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1051 sec  12.7 MBytes  10.6 Mbits/sec"
+649,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 59632 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/344)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1196 sec  12.7 MBytes  10.6 Mbits/sec"
+650,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 46436 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/312)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0336 sec  62.7 MBytes  52.4 Mbits/sec"
+651,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 34064 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/405)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1186 sec  12.7 MBytes  10.6 Mbits/sec"
+652,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 41714 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/348)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1179 sec  12.7 MBytes  10.6 Mbits/sec"
+653,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 50636 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/301)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0276 sec  62.7 MBytes  52.5 Mbits/sec"
+654,0,Ocioso
+655,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 59124 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/336)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1171 sec  12.7 MBytes  10.6 Mbits/sec"
+656,1,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 49636 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/212)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1187 sec  12.7 MBytes  10.6 Mbits/sec"
+657,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 45110 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/406)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0390 sec  62.7 MBytes  52.4 Mbits/sec"
+658,2,"------------------------------------------------------------
+Client connecting to 191.36.15.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 191.36.15.21 port 36416 connected with 191.36.15.1 port 5001 (icwnd/mss/irtt=14/1448/384)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0349 sec  62.7 MBytes  52.4 Mbits/sec"
