@@ -100,6 +100,8 @@ class ArrivalEvent(Event):
         # Reagendamento da chegada
         if self.fila_nome == "fila1":
             taxa = 10  # λ1
+        elif self.fila_nome == "fila4":
+            taxa = 20  # λ2    
         else:
             return
 
@@ -155,6 +157,7 @@ def main():
 
     # Agendar primeiras chegadas
     sim.schedule(ArrivalEvent(0, "fila1"))
+    sim.schedule(ArrivalEvent(0, "fila4"))
     
     # Executar simulação
     sim.run()
